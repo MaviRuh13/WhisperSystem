@@ -1,0 +1,31 @@
+----------------------------------------------------------- TÜRKÇE
+
+WHISPER_COLOR_TITLE	Fýsýltý Yazý Seçenekleri
+WHISPER_BUTTONS_TITLE	Fýsýltý Yazý Seçenekleri
+WHISPER_INFO	Sadece kendi yazýnýn rengini deðiþtirebilirsin.
+WHISPER_BUTTON_0	Normal
+WHISPER_BUTTON_1	Mavi
+WHISPER_BUTTON_2	Kýrmýzý
+WHISPER_BUTTON_3	Sarý
+WHISPER_BUTTON_4	Yeþil
+WHISPER_BUTTON_5	Turuncu
+WHISPER_BUTTON_6	Mor
+WHISPER_BUTTON_7	Pembe
+WHISPER_BUTTON_8	Siyah
+WHISPER_BUTTON	Paneli Aç
+
+----------------------------------------------------------- ENGLISH
+
+WHISPER_COLOR_TITLE	Whisper Text Options
+WHISPER_BUTTONS_TITLE	Whisper Text Options
+WHISPER_INFO	You can only change the color of your own text.
+WHISPER_BUTTON_0	Normal
+WHISPER_BUTTON_1	Blue
+WHISPER_BUTTON_2	Red
+WHISPER_BUTTON_3	Yellow
+WHISPER_BUTTON_4	Green
+WHISPER_BUTTON_5	Orange
+WHISPER_BUTTON_6	Purple
+WHISPER_BUTTON_7	Pink
+WHISPER_BUTTON_8	Black
+WHISPER_BUTTON	Open Panel
